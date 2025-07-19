@@ -1,8 +1,8 @@
 # DSA_Palmora_Group_Analysis
-**Case Study 3: Palmora Analysis (DSA CAPSTONE PROJECT) - [Power Bi]
+**Case Study 3: Palmora Analysis (DSA CAPSTONE PROJECT) - [Power Bi] <br>
 **
-**Palmora Group HR Data Analysis Project – Summary**
-Objective:
+**Palmora Group HR Data Analysis Project – Summary** <br>
+Objective:<br>
 The aim of the Palmora Group project was to analyze employee data across multiple departments and branches to uncover insights about workforce distribution, performance, attrition, and satisfaction. The analysis helped the HR department make data-driven decisions to improve staff retention, engagement, and productivity.
 ________________________________________
 **Key Areas of Analysis:**
