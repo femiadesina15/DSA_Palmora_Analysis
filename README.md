@@ -31,19 +31,19 @@ ________________________________________
 •	Improve employee retention by enhancing benefits and internal growth opportunities for younger staff. <br>
 •	Provide targeted training in departments with low performance scores. <br>
 •	Investigate causes of low work-life balance in high-attrition units. <br>
-•	Consider salary restructuring where disparities exist despite high qualifications or performance. <br>
+•	Consider salary restructuring where disparities exist despite high qualifications or performance. <br><br>
 
-![EMPLOYEE DEMOGRAPHY_PERFORMANCE RATING](https://github.com/user-attachments/assets/3eaa2785-d56b-4019-ae68-eb37a9fbd6ee)
+![EMPLOYEE DEMOGRAPHY_PERFORMANCE RATING](https://github.com/user-attachments/assets/3eaa2785-d56b-4019-ae68-eb37a9fbd6ee) <br><br>
 
-![SALARY AND PAY GAP INSIGHT](https://github.com/user-attachments/assets/88b47520-be9a-4e71-a4cb-c6012fa467c9)
+![SALARY AND PAY GAP INSIGHT](https://github.com/user-attachments/assets/88b47520-be9a-4e71-a4cb-c6012fa467c9) <br><br>
 
-![SALARY BAND DISTRIBUTION](https://github.com/user-attachments/assets/3a6c2d4c-40d0-4909-8f3d-c8729cdbf47a)
+![SALARY BAND DISTRIBUTION](https://github.com/user-attachments/assets/3a6c2d4c-40d0-4909-8f3d-c8729cdbf47a) <br><br>
 
-![KPIs](https://github.com/user-attachments/assets/2fad06cd-e759-45e5-aea8-ce1c63961c5a)
+![KPIs](https://github.com/user-attachments/assets/2fad06cd-e759-45e5-aea8-ce1c63961c5a) <br><br>
 
 
 
 
 **Author:** <br>
 **Adesina Obafemi Solomon**  <br>
-**Data Analyst**
+**Data Analyst** <br>
