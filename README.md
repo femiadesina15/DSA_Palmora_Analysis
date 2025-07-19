@@ -28,11 +28,11 @@ o	Built interactive Power BI dashboards to display:
 	Filters by Department, Gender, and Education Level
 	Visuals like bar charts, donut charts, and slicers for quick insights.
 ________________________________________
-Recommendations:
-•	Improve employee retention by enhancing benefits and internal growth opportunities for younger staff.
-•	Provide targeted training in departments with low performance scores.
-•	Investigate causes of low work-life balance in high-attrition units.
-•	Consider salary restructuring where disparities exist despite high qualifications or performance.
+Recommendations: <br>
+•	Improve employee retention by enhancing benefits and internal growth opportunities for younger staff. <br>
+•	Provide targeted training in departments with low performance scores. <br>
+•	Investigate causes of low work-life balance in high-attrition units. <br>
+•	Consider salary restructuring where disparities exist despite high qualifications or performance. <br>
 
 ![EMPLOYEE DEMOGRAPHY_PERFORMANCE RATING](https://github.com/user-attachments/assets/3eaa2785-d56b-4019-ae68-eb37a9fbd6ee)
 
@@ -45,6 +45,6 @@ Recommendations:
 
 
 
-Author: Adesina Obafemi Solomon  <br>
-
-Data Analyst
+Author: <br>
+**Adesina Obafemi Solomon**  <br>
+**Data Analyst**
